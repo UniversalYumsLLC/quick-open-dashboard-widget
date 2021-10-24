@@ -12,4 +12,6 @@
 
 Adds a dashboard widget that allows admins to quickly open the edit screen for any WordPress post type- including orders, products, and subscriptions.
 
-![Screenshot of the Quick Open widget.](https://github.com/UniversalYumsLLC/universalyums-com/quick-open-dashboard-widget/raw/master/screenshot.png)
+Very helpful time saver if you're doing a lot of order lookups throughout the day!
+
+![Screenshot of the Quick Open widget.](https://github.com/UniversalYumsLLC/quick-open-dashboard-widget/raw/master/screenshot.png)
